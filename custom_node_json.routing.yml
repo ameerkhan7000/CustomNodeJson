@@ -1,0 +1,6 @@
+custom_node_json.arguments:
+  path: '/page_json/{api}/{node}'
+  defaults:
+    _controller: '\Drupal\custom_node_json\Controller\NodeJson::content'
+  requirements:
+    _custom_access: '\Drupal\custom_node_json\Controller\NodeJson::access'    

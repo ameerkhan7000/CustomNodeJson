@@ -1,0 +1,8 @@
+name: Custom node json
+type: module
+description: Custom node json.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: custom
+dependencies:
+  - drupal:serialization
