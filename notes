@@ -1,0 +1,7 @@
+I have used the following resources for this implementation.
+
+
+https://www.drupal.org/forum/support/post-installation/2019-02-06/add-a-new-custom-field-to-site-infomation-form-in-drupal8
+https://ourcodeworld.com/articles/read/60/how-to-return-a-xml-response-with-symfony-2-3
+https://drupal.stackexchange.com/questions/191419/drupal-8-node-serialization-to-json
+https://www.drupal.org/docs/8/api/routing-system/access-checking-on-routes/custom-route-access-checking
